@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	background-color:#069;
+}
+
+p{
+	color:#fff;
+}
+
+.formField{
+	color:#fff;
+}
+
+h1, h2, h3{
+	color:#fff;
+}
+
+
+/* Form Elements */
+
+.fieldContainer{
+	width:150px;
+}
+
+.label{
+	font-weight:bold;
+	float:left;
+}
+
+.textField{
+	border:1px;
+	float:right;
+}

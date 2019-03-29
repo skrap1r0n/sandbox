@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* inc_drawRow.php local styles */
+.inc_drawRowCell{
+	border:1px solid #060;
+	background-color:#090;
+	padding:0;
+	margin:0;
+	cursor:pointer;
+}
+

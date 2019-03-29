@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mainContainer{
+	width:720px;
+	min-height:600px;
+	background-color:#333
+}
+
+#header{
+	width:71s0px;
+	min-height:90px;
+	background-color:#036;
+	padding:5px;
+}
+
+#headerText{
+	color:#ccc;
+	font-size:2.5em;
+}
+
+#leftNav{
+	min-height:470px;
+	width:100px;
+	background-color:#fff;
+	padding:5px;
+	float:left;
+}
+
+#contentContainer{
+	min-height:460px;
+	width:580px;
+	background-color:#666;
+	padding:10px;
+	float:right;
+}
+
+.clearLine{
+	clear:both;
+}
+
+#footer{
+	width:710px;
+	min-height:30px;
+	background-color:#036;
+	padding:5px;
+}
+
+#footerText{
+	color:#fff;
+	font-size:.8em;
+}
+
+
+.leftNavListUl
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+.leftNavListLi{
+	margin-bottom:3px;
+}
+
+#mapEditRight{
+	min-height:460px;
+	width:193px;
+	float:right;
+}
+
+#mapEditLeft{
+	min-height:460px;
+	width:386px;
+	float:left;
+}
